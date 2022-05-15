@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="tinggi_badan">Tinggi Badan</string>
+    <string name="berat_badan">Berat Badan</string>
+    <string name="button">Tombol</string>
+    <string name="index">Index</string>
+    <string name="status">Status</string>
+</resources>

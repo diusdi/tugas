@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498844809276",
+    "project_id": "basis-data-c5af7",
+    "storage_bucket": "basis-data-c5af7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498844809276:android:989f0e615a8e184102eb39",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_pertama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498844809276-4flc8v7163kefvc7c9vjhosh7fo4jtvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAht46z83Ba_0XtX4chdf7YDZ3rwY-GVsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498844809276-4flc8v7163kefvc7c9vjhosh7fo4jtvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
